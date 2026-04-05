@@ -70,14 +70,14 @@ model_directory/
 
 Each baseline model has its own directory containing the execution scripts. For example, to train and test the BiDDIN model:
 
-### Testing on IEMOCAP
+### Training on IEMOCAP
 
 ```bash
 cd BiDDIN
 bash train_ie.sh
 ```
 
-### Testing on MELD
+### Training on MELD
 
 ```bash
 cd BiDDIN
